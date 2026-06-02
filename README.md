@@ -64,7 +64,7 @@ If you'd like to contribute to this project, please follow these steps:
 ## Live Repository
 
 Project Repository:
-https://github.com/Haritha790/DocDiagnose-
+https://github.com/Haritha790/Hyperspectral-gas-detection
 
 ---
 
