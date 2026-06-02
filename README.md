@@ -72,7 +72,7 @@ https://github.com/Haritha790/Hyperspectral-gas-detection
 
 If you have any questions or suggestions, feel free to reach out:
 
-* Email: [harithabammidi78@example.com](mailto:harithabammidi78@example.com)
+* Email: [harithabammidi78@gmail.com](mailto:harithabammidi78@gmail.com)
 * GitHub: https://github.com/Haritha790
 
 ---
